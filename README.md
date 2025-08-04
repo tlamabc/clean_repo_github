@@ -20,7 +20,7 @@ A simple interactive Bash script to list and delete your own GitHub repositories
 - [`fzf`](https://github.com/junegunn/fzf) — for interactive selection
 - macOS or Linux (tested)
 
-##Setup
+## Setup
 
 ### 1. Clone the script (if using from a repo)
 
